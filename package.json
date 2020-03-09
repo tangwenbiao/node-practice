@@ -1,0 +1,23 @@
+{
+  "name": "myfirstnodemodel",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tangwenbiao/node-practice.git"
+  },
+  "author": "TangFenQi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tangwenbiao/node-practice/issues"
+  },
+  "homepage": "https://github.com/tangwenbiao/node-practice#readme"
+}
